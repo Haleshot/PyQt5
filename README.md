@@ -9,7 +9,6 @@ This repository contains a collection of projects created using PyQt5, a Python 
 3. [Getting Started](#getting-started)
 4. [Contributing](#contributing)
 5. [License](#license)
-6. [Contact](#contact)
 
 
 ## Projects
@@ -23,29 +22,7 @@ This repository contains a collection of projects created using PyQt5, a Python 
 
 ## Getting Started
 
-To get started with any of the projects, follow the steps below:
-
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/username/pyqt5-projects.git
-   ```
-
-2. Change to the project directory:
-   ```shell
-   cd project-directory
-   ```
-
-3. Install the required dependencies:
-   ```shell
-   pip install -r requirements.txt
-   ```
-
-4. Run the project:
-   ```shell
-   python main.py
-   ```
-
-Feel free to explore the individual project directories and check out their respective repositories for more details.
+To get started with any of the projects, follow the steps provided in their respective README files:
 
 ## Contributing
 
