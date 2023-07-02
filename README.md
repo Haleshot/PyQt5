@@ -11,31 +11,6 @@ This repository contains a collection of projects created using PyQt5, a Python 
 5. [License](#license)
 6. [Contact](#contact)
 
-## PyQt5 Projects<a name="pyqt5-projects"></a>
-
-Introduction to the repository and its purpose.
-
-## Projects<a name="projects"></a>
-
-List of projects with brief descriptions, tools used, and repository links.
-
-## Getting Started<a name="getting-started"></a>
-
-Instructions on how to clone the repository, install dependencies, and run the projects.
-
-## Contributing<a name="contributing"></a>
-
-Guidelines for contributing to the repository.
-
-## License<a name="license"></a>
-
-Information about the license under which this repository is distributed.
-
-## Contact<a name="contact"></a>
-
-Contact details for any questions or suggestions related to the repository.
-
-
 
 ## Projects
 
