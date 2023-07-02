@@ -41,7 +41,7 @@ Contact details for any questions or suggestions related to the repository.
 
 | Serial Number | Project Title | Description | Tools Used | Repository Link |
 |---------------|---------------|-------------|------------|-----------------|
-| 1             | Project A     | A brief description of Project A | Python, PyQt5 | [Project A Repo](https://github.com/username/project-a) |
+| 1             | Face Detection     | A brief description of Project A | Python, PyQt5 | [Project A Repo](https://github.com/username/project-a) |
 | 2             | Project B     | A brief description of Project B | Python, PyQt5 | [Project B Repo](https://github.com/username/project-b) |
 | 3             | Project C     | A brief description of Project C | Python, PyQt5 | [Project C Repo](https://github.com/username/project-c) |
 | 4             | Project D     | A brief description of Project D | Python, PyQt5 | [Project D Repo](https://github.com/username/project-d) |
