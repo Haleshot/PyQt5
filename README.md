@@ -41,10 +41,16 @@ Contact details for any questions or suggestions related to the repository.
 
 | Serial Number | Project Title | Description | Tools Used | Repository Link |
 |---------------|---------------|-------------|------------|-----------------|
-| 1             | Attendance System using Facial Recognition     | A brief description of Project A | Python, PyQt5 | [Project A Repo](https://github.com/username/project-a) |
-| 2             | Project B     | A brief description of Project B | Python, PyQt5 | [Project B Repo](https://github.com/username/project-b) |
-| 3             | Project C     | A brief description of Project C | Python, PyQt5 | [Project C Repo](https://github.com/username/project-c) |
-| 4             | Project D     | A brief description of Project D | Python, PyQt5 | [Project D Repo](https://github.com/username/project-d) |
+| 1             | Attendance System using Facial Recognition System | Attendance system using facial recognition system. Utilizes haarcascade classifiers for face detection and recognition. Stores attendance in Excel files and generates training images for face detection. | haarcascade classifiers, Excel, Python, PyQt5 | [Attendance System Repo](https://github.com/username/attendance-system) |
+| 2             | Flight Ticket Booking Management System | Flight ticket booking management system with Python and MySQL connectivity. Provides user-friendly GUI using PyQt5 library. Features include user accounts, OTP verification, flight details, and payment and cancellation functionalities. | Python, PyQt5, MySQL, Twilio | [Flight Booking System Repo](https://github.com/Haleshot/Flight_Booking_System) |
+| 3             | Image Processing - Edge Detection | Edge detection project using the Laplacian filter and other image processing techniques such as LPF, HPF, and thresholding. Implements these techniques in MATLAB and analyzes results using various test images. | MATLAB | [Image Processing Repo](https://github.com/Haleshot/Image_Processing) |
+
+Please replace the placeholder repository links with the actual repository links for each project.
+
+
+
+
+
 
 ## Getting Started
 
