@@ -9,7 +9,6 @@ This repository contains a collection of projects created using PyQt5, a Python 
 3. [Contributing](#contributing)
 4. [License](#license)
 
-
 ## Projects
 
 | Serial Number | Project Title | Description | Tools Used | Repository Link |
